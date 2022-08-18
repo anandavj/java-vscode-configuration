@@ -1,0 +1,10 @@
+{
+    "java.configuration.runtimes": [
+        {
+          "name": "JavaSE-11",
+          "path": "<java-home-path>",
+          "default": true
+        }
+    ],
+    "java.settings.url":"<your-path-to-project>/.settings/org.eclipse.jdt.core.prefs"
+}
